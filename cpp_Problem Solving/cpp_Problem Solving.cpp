@@ -53,6 +53,42 @@ int main()
 
 	std::cout << "abdallh after 2 line empty";
 }
+
+
+//#include <iostream>
+int main() {
+	std::cout << "M1" << "M2" << "M3 \n";
+
+	std::cout << "M1" << "M2" << "m3";
+
+	return 0;
+}
+
+int main() {
+	std::cout << "*********************" << std::endl;
+	std::cout << "Name :" << " Abdallh Elzayat \n";
+	std::cout << "Age :" << "21 Year \n";
+	std::cout << "Country :" << "Egypt \n";
+	std::cout << "City :" << "Samnoud \n";
+
+	std::cout << "*********************";
+
+	//std::cout <<" the result of " << "10 + 5 = " << 10 + 5 << std::endl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 

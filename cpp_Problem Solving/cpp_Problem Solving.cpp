@@ -86,19 +86,25 @@ using namespace std;
 	//std::cout << "*********** \n";
 //}
 
+//int main() {
+//
+//	std::cout << "i Love Projramming" << std::endl;
+//	std::cout << "i Promise to be a best Develoepr" << std::endl;
+//	std::cout << "i Know it will taje some time to practice , but I " << std::endl;
+//	std::cout << "Will achieve my goal \n \n";
+//
+//	std::cout << "Best Regards, \n";
+//	std::cout << "Abdallh Elzayat. \n";
+//	return 0;
+//}
+
 int main() {
-
-	std::cout << "i Love Projramming" << std::endl;
-	std::cout << "i Promise to be a best Develoepr" << std::endl;
-	std::cout << "i Know it will taje some time to practice , but I " << std::endl;
-	std::cout << "Will achieve my goal \n \n";
-
-	std::cout << "Best Regards";
-	std::cout << "Abdallh Elzayat";
-
-
+	std::cout << "*  " << "  * \n";
+	std::cout << "*  " << "  * \n";
+	std::cout << "******\n";
+	std::cout << "*  " << "  *\n";
+	std::cout << "*  " << "  *\n";
 }
-
 
 
 

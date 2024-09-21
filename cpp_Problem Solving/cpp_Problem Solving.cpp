@@ -64,39 +64,39 @@ using namespace std;
 //	return 0;
 //}
 
-//int main() {
-//	std::cout << "*********************" << std::endl;
-//	std::cout << "Name :" << " Abdallh Elzayat \n";
-//	std::cout << "Age :" << "21 Year \n";
-//	std::cout << "Country :" << "Egypt \n";
-//	std::cout << "City :" << "Samnoud \n";
-//
-//	std::cout << "*********************";
-//
-//	//std::cout <<" the result of " << "10 + 5 = " << 10 + 5 << std::endl;
-//}
+int main() {
+	std::cout << "*********************" << std::endl;
+	std::cout << "Name :" << " Abdallh Elzayat \n";
+	std::cout << "Age :" << "21 Year \n";
+	std::cout << "Country :" << "Egypt \n";
+	std::cout << "City :" << "Samnoud \n";
+
+	std::cout << "*********************";
+
+	std::cout <<" the result of " << "10 + 5 = " << 10 + 5 << std::endl;
+}
 
 
 
-//int main() {
-	//std::cout << "*********** \n";
-	//std::cout << "*********** \n";
-	//std::cout << "*********** \n";
-	//std::cout << "*********** \n";
-	//std::cout << "*********** \n";
-//}
+int main() {
+	std::cout << "*********** \n";
+	std::cout << "*********** \n";
+	std::cout << "*********** \n";
+	std::cout << "*********** \n";
+	std::cout << "*********** \n";
+}
 
-//int main() {
-//
-//	std::cout << "i Love Projramming" << std::endl;
-//	std::cout << "i Promise to be a best Develoepr" << std::endl;
-//	std::cout << "i Know it will taje some time to practice , but I " << std::endl;
-//	std::cout << "Will achieve my goal \n \n";
-//
-//	std::cout << "Best Regards, \n";
-//	std::cout << "Abdallh Elzayat. \n";
-//	return 0;
-//}
+int main() {
+
+	std::cout << "i Love Projramming" << std::endl;
+	std::cout << "i Promise to be a best Develoepr" << std::endl;
+	std::cout << "i Know it will taje some time to practice , but I " << std::endl;
+	std::cout << "Will achieve my goal \n \n";
+
+	std::cout << "Best Regards, \n";
+	std::cout << "Abdallh Elzayat. \n";
+	return 0;
+}
 
 int main() {
 	std::cout << "*  " << "  * \n";
